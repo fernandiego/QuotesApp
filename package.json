@@ -1,0 +1,16 @@
+{
+  "name": "quotesapp",
+  "version": "1.0.0",
+  "description": "App que mostra Quotes randomicamente",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quotes"
+  ],
+  "author": "FOX",
+  "license": "ISC"
+}
