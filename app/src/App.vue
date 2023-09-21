@@ -1,26 +1,36 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <v-app>
+    <v-main>
+      <v-container>
+        <RandomQuoteButton @get-random-quote="getRandomQuote" />
+        <QuoteDisplay :quote="currentQuote" />
+      </v-container>
+    </v-main>
+  </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import RandomQuoteButton from "./components/RandomQuoteButton.vue";
+import QuoteDisplay from "./components/QuoteDisplay.vue";
+import quotes from "../quotes.json";
 
 export default {
-  name: 'App',
   components: {
-    HelloWorld
-  }
-}
+    RandomQuoteButton,
+    QuoteDisplay,
+  },
+  data() {
+    return {
+      quotes,
+      currentQuote: null,
+    };
+  },
+  methods: {
+    getRandomQuote() {
+      // Get a random quote from the JSON file
+      const randomIndex = Math.floor(Math.random() * this.quotes.length);
+      this.currentQuote = this.quotes[randomIndex];
+    },
+  },
+};
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>

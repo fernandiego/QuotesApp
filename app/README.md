@@ -1,5 +1,8 @@
 # app
 
+### - It's a app to randomize quotes when the button is clicked
+### - Quotes from famous persons, philosophers and personalities
+
 ## Project setup
 ```
 npm install
