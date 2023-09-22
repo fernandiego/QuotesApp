@@ -250,5 +250,755 @@
     "Id": 50,
     "quote": "Søren Kierkegaard noted, 'Life can only be understood backwards; but it must be lived forwards.' Embrace the journey of growth and understanding in your relationships.",
     "author": "Søren Kierkegaard"
+  },
+  {
+    "Id": 51,
+    "quote": "The lack of money is the root of all evil.",
+    "author": "Mark Twain"
+  },
+  {
+    "Id": 52,
+    "quote": "A wise person should have money in their head, but not in their heart.",
+    "author": "Jonathan Swift"
+  },
+  {
+    "Id": 53,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 54,
+    "quote": "The art is not in making money, but in keeping it.",
+    "author": "Proverb"
+  },
+  {
+    "Id": 55,
+    "quote": "Money is a good servant but a bad master.",
+    "author": "French Proverb"
+  },
+  {
+    "Id": 56,
+    "quote": "When I had money everyone called me brother.",
+    "author": "Polish Proverb"
+  },
+  {
+    "Id": 57,
+    "quote": "Money, like emotions, is something you must control to keep your life on the right track.",
+    "author": "Natasha Munson"
+  },
+  {
+    "Id": 58,
+    "quote": "The lack of money is no obstacle. The lack of an idea is an obstacle.",
+    "author": "Ken Hakuta"
+  },
+  {
+    "Id": 59,
+    "quote": "Money is multiplied in practical value depending on the number of W’s you control in your life: what you do, when you do it, where you do it, and with whom you do it.",
+    "author": "Tim Ferriss"
+  },
+  {
+    "Id": 60,
+    "quote": "It's not your salary that makes you rich, it's your spending habits.",
+    "author": "Charles A. Jaffe"
+  },
+  {
+    "Id": 61,
+    "quote": "A bank is a place that will lend you money if you can prove that you don't need it.",
+    "author": "Bob Hope"
+  },
+  {
+    "Id": 62,
+    "quote": "The stock market is filled with individuals who know the price of everything, but the value of nothing.",
+    "author": "Philip Fisher"
+  },
+  {
+    "Id": 63,
+    "quote": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+    "author": "Ayn Rand"
+  },
+  {
+    "Id": 64,
+    "quote": "Don't tell me where your priorities are. Show me where you spend your money and I'll tell you what they are.",
+    "author": "James W. Frick"
+  },
+  {
+    "Id": 65,
+    "quote": "The stock market is a device for transferring money from the impatient to the patient.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 66,
+    "quote": "Wealth consists not in having great possessions, but in having few wants.",
+    "author": "Epictetus"
+  },
+  {
+    "Id": 67,
+    "quote": "The best investment you can make is in yourself.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 68,
+    "quote": "Too many people spend money they haven't earned, to buy things they don't want, to impress people they don't like.",
+    "author": "Will Rogers"
+  },
+  {
+    "Id": 69,
+    "quote": "The goal isn’t more money. The goal is living life on your terms.",
+    "author": "Chris Brogan"
+  },
+  {
+    "Id": 70,
+    "quote": "The more you learn, the more you earn.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 71,
+    "quote": "Time is more valuable than money. You can get more money, but you cannot get more time.",
+    "author": "Jim Rohn"
+  },
+  {
+    "Id": 72,
+    "quote": "Money is a guarantee that we may have what we want in the future. Though we need nothing at the moment it insures the possibility of satisfying a new desire when it arises.",
+    "author": "Aristotle"
+  },
+  {
+    "Id": 73,
+    "quote": "Money is usually attracted, not pursued.",
+    "author": "Jim Rohn"
+  },
+  {
+    "Id": 74,
+    "quote": "Don't work for money; make money work for you.",
+    "author": "Robert Kiyosaki"
+  },
+  {
+    "Id": 75,
+    "quote": "When money realizes that it is in good hands, it wants to stay and multiply in those hands.",
+    "author": "Idowu Koyenikan"
+  },
+  {
+    "Id": 76,
+    "quote": "The key to making money is to stay invested.",
+    "author": "Suze Orman"
+  },
+  {
+    "Id": 77,
+    "quote": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+    "author": "Ayn Rand"
+  },
+  {
+    "Id": 78,
+    "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill"
+  },
+  {
+    "Id": 79,
+    "quote": "The greatest wealth is to live content with little.",
+    "author": "Plato"
+  },
+  {
+    "Id": 80,
+    "quote": "Money won't create success, the freedom to make it will.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "Id": 81,
+    "quote": "A fool and his money are soon parted.",
+    "author": "Thomas Tusser"
+  },
+  {
+    "Id": 82,
+    "quote": "The more you chase money, the harder it is to catch it.",
+    "author": "Mike Tatum"
+  },
+  {
+    "Id": 83,
+    "quote": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "Id": 84,
+    "quote": "Money can't buy happiness, but it will certainly get you a better class of memories.",
+    "author": "Ronald Reagan"
+  },
+  {
+    "Id": 85,
+    "quote": "The quickest way to double your money is to fold it in half and put it in your back pocket.",
+    "author": "Will Rogers"
+  },
+  {
+    "Id": 86,
+    "quote": "Wealth is not about having a lot of money; it's about having a lot of options.",
+    "author": "Chris Rock"
+  },
+  {
+    "Id": 87,
+    "quote": "Empty pockets never held anyone back. Only empty heads and empty hearts can do that.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "Id": 88,
+    "quote": "If you don't find a way to make money while you sleep, you will work until you die.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 89,
+    "quote": "The lack of money is the root of all evil.",
+    "author": "Mark Twain"
+  },
+  {
+    "Id": 90,
+    "quote": "I will tell you the secret to getting rich on Wall Street. You try to be greedy when others are fearful, and you try to be fearful when others are greedy.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 91,
+    "quote": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+    "author": "Ayn Rand"
+  },
+  {
+    "Id": 92,
+    "quote": "Formal education will make you a living; self-education will make you a fortune.",
+    "author": "Jim Rohn"
+  },
+  {
+    "Id": 93,
+    "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+    "author": "Thomas A. Edison"
+  },
+  {
+    "Id": 94,
+    "quote": "The stock market is a device for transferring money from the impatient to the patient.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 95,
+    "quote": "It's not your salary that makes you rich; it's your spending habits.",
+    "author": "Charles A. Jaffe"
+  },
+  {
+    "Id": 96,
+    "quote": "The goal isn’t more money. The goal is living life on your terms.",
+    "author": "Chris Brogan"
+  },
+  {
+    "Id": 97,
+    "quote": "The more you learn, the more you earn.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 98,
+    "quote": "Time is more valuable than money. You can get more money, but you cannot get more time.",
+    "author": "Jim Rohn"
+  },
+  {
+    "Id": 99,
+    "quote": "Money is a guarantee that we may have what we want in the future. Though we need nothing at the moment, it insures the possibility of satisfying a new desire when it arises.",
+    "author": "Aristotle"
+  },
+  {
+    "Id": 100,
+    "quote": "Money is usually attracted, not pursued.",
+    "author": "Jim Rohn"
+  },
+  {
+    "Id": 101,
+    "quote": "Don't work for money; make money work for you.",
+    "author": "Robert Kiyosaki"
+  },
+  {
+    "Id": 102,
+    "quote": "When money realizes that it is in good hands, it wants to stay and multiply in those hands.",
+    "author": "Idowu Koyenikan"
+  },
+  {
+    "Id": 103,
+    "quote": "The key to making money is to stay invested.",
+    "author": "Suze Orman"
+  },
+  {
+    "Id": 104,
+    "quote": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+    "author": "Ayn Rand"
+  },
+  {
+    "Id": 105,
+    "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill"
+  },
+  {
+    "Id": 106,
+    "quote": "The greatest wealth is to live content with little.",
+    "author": "Plato"
+  },
+  {
+    "Id": 107,
+    "quote": "Money won't create success, the freedom to make it will.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "Id": 108,
+    "quote": "A fool and his money are soon parted.",
+    "author": "Thomas Tusser"
+  },
+  {
+    "Id": 109,
+    "quote": "The more you chase money, the harder it is to catch it.",
+    "author": "Mike Tatum"
+  },
+  {
+    "Id": 110,
+    "quote": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "Id": 111,
+    "quote": "Money can't buy happiness, but it will certainly get you a better class of memories.",
+    "author": "Ronald Reagan"
+  },
+  {
+    "Id": 112,
+    "quote": "The quickest way to double your money is to fold it in half and put it in your back pocket.",
+    "author": "Will Rogers"
+  },
+  {
+    "Id": 113,
+    "quote": "Wealth is not about having a lot of money; it's about having a lot of options.",
+    "author": "Chris Rock"
+  },
+  {
+    "Id": 114,
+    "quote": "Empty pockets never held anyone back. Only empty heads and empty hearts can do that.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "Id": 115,
+    "quote": "If you don't find a way to make money while you sleep, you will work until you die.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 116,
+    "quote": "The lack of money is the root of all evil.",
+    "author": "Mark Twain"
+  },
+  {
+    "Id": 117,
+    "quote": "I will tell you the secret to getting rich on Wall Street. You try to be greedy when others are fearful, and you try to be fearful when others are greedy.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 118,
+    "quote": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+    "author": "Ayn Rand"
+  },
+  {
+    "Id": 119,
+    "quote": "Formal education will make you a living; self-education will make you a fortune.",
+    "author": "Jim Rohn"
+  },
+  {
+    "Id": 120,
+    "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+    "author": "Thomas A. Edison"
+  },
+  {
+    "Id": 121,
+    "quote": "The stock market is a device for transferring money from the impatient to the patient.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 122,
+    "quote": "It's not your salary that makes you rich; it's your spending habits.",
+    "author": "Charles A. Jaffe"
+  },
+  {
+    "Id": 123,
+    "quote": "The goal isn’t more money. The goal is living life on your terms.",
+    "author": "Chris Brogan"
+  },
+  {
+    "Id": 124,
+    "quote": "The more you learn, the more you earn.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 125,
+    "quote": "Time is more valuable than money. You can get more money, but you cannot get more time.",
+    "author": "Jim Rohn"
+  },
+  {
+    "Id": 126,
+    "quote": "Money is a guarantee that we may have what we want in the future. Though we need nothing at the moment, it insures the possibility of satisfying a new desire when it arises.",
+    "author": "Aristotle"
+  },
+  {
+    "Id": 127,
+    "quote": "Money is usually attracted, not pursued.",
+    "author": "Jim Rohn"
+  },
+  {
+    "Id": 128,
+    "quote": "Don't work for money; make money work for you.",
+    "author": "Robert Kiyosaki"
+  },
+  {
+    "Id": 129,
+    "quote": "When money realizes that it is in good hands, it wants to stay and multiply in those hands.",
+    "author": "Idowu Koyenikan"
+  },
+  {
+    "Id": 130,
+    "quote": "The key to making money is to stay invested.",
+    "author": "Suze Orman"
+  },
+  {
+    "Id": 131,
+    "quote": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+    "author": "Ayn Rand"
+  },
+  {
+    "Id": 132,
+    "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill"
+  },
+  {
+    "Id": 133,
+    "quote": "The greatest wealth is to live content with little.",
+    "author": "Plato"
+  },
+  {
+    "Id": 134,
+    "quote": "Money won't create success, the freedom to make it will.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "Id": 135,
+    "quote": "A fool and his money are soon parted.",
+    "author": "Thomas Tusser"
+  },
+  {
+    "Id": 136,
+    "quote": "The more you chase money, the harder it is to catch it.",
+    "author": "Mike Tatum"
+  },
+  {
+    "Id": 137,
+    "quote": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "Id": 138,
+    "quote": "Money can't buy happiness, but it will certainly get you a better class of memories.",
+    "author": "Ronald Reagan"
+  },
+  {
+    "Id": 139,
+    "quote": "The quickest way to double your money is to fold it in half and put it in your back pocket.",
+    "author": "Will Rogers"
+  },
+  {
+    "Id": 140,
+    "quote": "Wealth is not about having a lot of money; it's about having a lot of options.",
+    "author": "Chris Rock"
+  },
+  {
+    "Id": 141,
+    "quote": "Empty pockets never held anyone back. Only empty heads and empty hearts can do that.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "Id": 142,
+    "quote": "If you don't find a way to make money while you sleep, you will work until you die.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 143,
+    "quote": "The lack of money is the root of all evil.",
+    "author": "Mark Twain"
+  },
+  {
+    "Id": 144,
+    "quote": "I will tell you the secret to getting rich on Wall Street. You try to be greedy when others are fearful, and you try to be fearful when others are greedy.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 145,
+    "quote": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+    "author": "Ayn Rand"
+  },
+  {
+    "Id": 146,
+    "quote": "Formal education will make you a living; self-education will make you a fortune.",
+    "author": "Jim Rohn"
+  },
+  {
+    "Id": 147,
+    "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+    "author": "Thomas A. Edison"
+  },
+  {
+    "Id": 148,
+    "quote": "The stock market is a device for transferring money from the impatient to the patient.",
+    "author": "Warren Buffett"
+  },
+  {
+    "Id": 149,
+    "quote": "It's not your salary that makes you rich; it's your spending habits.",
+    "author": "Charles A. Jaffe"
+  },
+  {
+    "Id": 150,
+    "quote": "The goal isn’t more money. The goal is living life on your terms.",
+    "author": "Chris Brogan"
+  },
+  {
+    "Id": 151,
+    "quote": "Money is like love; it kills slowly and painfully the one who withholds it, and enlivens the other who turns it on his fellow man.",
+    "author": "Kahlil Gibran"
+  },
+  {
+    "Id": 152,
+    "quote": "Too many people spend money they haven't earned to buy things they don't want to impress people they don't like.",
+    "author": "Will Rogers"
+  },
+  {
+    "Id": 153,
+    "quote": "It's good to have money and the things that money can buy, but it's good, too, to check up once in a while and make sure that you haven't lost the things that money can't buy.",
+    "author": "George Lorimer"
+  },
+  {
+    "Id": 154,
+    "quote": "The lack of money is the root of all evil.",
+    "author": "Mark Twain"
+  },
+  {
+    "Id": 155,
+    "quote": "A wise person should have money in their head, but not in their heart.",
+    "author": "Jonathan Swift"
+  },
+  {
+    "Id": 156,
+    "quote": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+    "author": "Ayn Rand"
+  },
+  {
+    "Id": 157,
+    "quote": "The stock market is filled with individuals who know the price of everything, but the value of nothing.",
+    "author": "Philip Fisher"
+  },
+  {
+    "Id": 158,
+    "quote": "The safe way to double your money is to fold it over once and put it in your pocket.",
+    "author": "Frank Hubbard"
+  },
+  {
+    "Id": 159,
+    "quote": "Money is a guarantee that we may have what we want in the future. Though we need nothing at the moment, it insures the possibility of satisfying a new desire when it arises.",
+    "author": "Aristotle"
+  },
+  {
+    "Id": 160,
+    "quote": "Financial peace isn't the acquisition of stuff. It's learning to live on less than you make, so you can give money back and have money to invest. You can't win until you do this.",
+    "author": "Dave Ramsey"
+  },
+  {
+    "Id": 161,
+    "quote": "If you want to know what a man is really like, take notice of how he acts when he loses money.",
+    "author": "Simone Weil"
+  },
+  {
+    "Id": 162,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
+  },
+  {
+    "Id": 163,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
+  },
+  {
+    "Id": 164,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 165,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 166,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 167,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 168,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 169,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
+  },
+  {
+    "Id": 170,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
+  },
+  {
+    "Id": 171,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 172,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 173,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 174,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 175,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
+  },
+  {
+    "Id": 176,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
+  },
+  {
+    "Id": 177,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 178,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 179,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 180,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 181,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
+  },
+  {
+    "Id": 182,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
+  },
+  {
+    "Id": 183,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 184,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 185,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 186,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 187,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
+  },
+  {
+    "Id": 188,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
+  },
+  {
+    "Id": 189,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 190,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 191,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 192,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 193,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
+  },
+  {
+    "Id": 194,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
+  },
+  {
+    "Id": 195,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 196,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 197,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 198,
+    "quote": "Money often costs too much.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "Id": 199,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
+  },
+  {
+    "Id": 200,
+    "quote": "When I had money, everyone called me brother.",
+    "author": "Polish proverb"
   }
 ]
