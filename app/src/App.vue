@@ -1,18 +1,18 @@
 <template>
-  <v-app>
-    <v-main>
-      <v-container>
+  <div>
+    <main>
+      <div>
         <RandomQuoteButton @get-random-quote="getRandomQuote" />
         <QuoteDisplay :quote="currentQuote" />
-      </v-container>
-    </v-main>
-  </v-app>
+      </div>
+    </main>
+  </div>
 </template>
 
 <script>
 import RandomQuoteButton from "./components/RandomQuoteButton.vue";
 import QuoteDisplay from "./components/QuoteDisplay.vue";
-import quotes from "../quotes.json";
+import quotes from "./quotes.json";
 
 export default {
   components: {

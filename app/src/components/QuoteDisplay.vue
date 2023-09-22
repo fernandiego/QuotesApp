@@ -1,11 +1,9 @@
 <template>
   <div>
-    <v-card>
-      <v-card-text>
-        <v-subtitle v-if="quote">{{ quote.quote }}</v-subtitle>
-        <v-caption v-if="quote">{{ quote.author }}</v-caption>
-      </v-card-text>
-    </v-card>
+    <div>
+      <div v-if="quote">{{ quote.quote }}</div>
+      <div v-if="quote">{{ quote.author }}</div>
+    </div>
   </div>
 </template>
 
