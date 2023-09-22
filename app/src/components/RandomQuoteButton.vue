@@ -1,5 +1,7 @@
 <template>
-  <button @click="getRandomQuote" class="primary-button">Get Random Quote</button>
+  <div class="center-button">
+    <button @click="getRandomQuote" class="primary-button">Get Random Quote</button>
+  </div>
 </template>
 
 <script>
@@ -14,7 +16,13 @@ export default {
 </script>
 
 <style scoped>
-/* You can define styles for the button here */
+/* You can define styles for the button and centering container here */
+.center-button {
+  display: flex;
+  justify-content: center; /* Horizontally center the content */
+  align-items: center; /* Vertically center the content */
+}
+
 .primary-button {
   background-color: #1976d2; /* Example primary color */
   color: white;
