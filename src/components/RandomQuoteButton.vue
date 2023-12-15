@@ -29,6 +29,17 @@ export default {
   padding: 10px 20px;
   border: none;
   cursor: pointer;
-  border-radius: 12px
+  border-radius: 12px;
+  opacity: 0.5;
+  transition: 0.3s;
+  box-shadow: 0 5px #999
+}
+.primary-button:hover {
+  opacity: 1
+}
+.primary-button:active {
+  transform: translate(4px);
+  background-color: red;
+  box-shadow: 0 1px #777;
 }
 </style>
