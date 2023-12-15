@@ -133,9 +133,7 @@
     "Id": 27,
     "quote": "Aristotle's wisdom: 'Friendship is a single soul dwelling in two bodies.' Nurture the souls in your life.",
     "author": "Aristotle"
-
-
- },
+  },
   {
     "Id": 28,
     "quote": "Blaise Pascal noted, 'The heart has its reasons, of which reason knows nothing.' Acknowledge the depth of emotion in your relationships.",
@@ -1000,5 +998,255 @@
     "Id": 200,
     "quote": "When I had money, everyone called me brother.",
     "author": "Polish proverb"
+  },
+  {
+    "Id": 201,
+    "quote": "I'm not clumsy, it's just the floor hates me, the tables and chairs are bullies, and the walls get in my way.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 202,
+    "quote": "My wallet is like an onion. When I open it, it makes me cry.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 203,
+    "quote": "I told my wife she should embrace her mistakes... She gave me a hug.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 204,
+    "quote": "I’m on a seafood diet. I see food and I eat it.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 205,
+    "quote": "I'm not lazy, I'm just on my energy-saving mode.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 206,
+    "quote": "I finally realized that the people who borrow my books are real friends. The ones who return them are mere acquaintances.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 207,
+    "quote": "I don't need a hairstylist, my pillow gives me a new hairstyle every morning.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 208,
+    "quote": "The only exercise I've done this month is running out of money.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 209,
+    "quote": "I'm not arguing, I'm just explaining why I'm right.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 210,
+    "quote": "My bed is a magical place where I suddenly remember everything I forgot to do.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 211,
+    "quote": "I'm not shy, I'm just holding back my awesomeness so I don't intimidate you.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 212,
+    "quote": "I'm so poor, I can't even afford to pay attention.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 213,
+    "quote": "I'm not lazy, I'm just highly motivated to do nothing.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 214,
+    "quote": "I always arrive late at the office, but I make up for it by leaving early.",
+    "author": "Charles Lamb"
+  },
+  {
+    "Id": 215,
+    "quote": "I hate when I'm singing a song and the artist gets the lyrics wrong.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 216,
+    "quote": "I'm not clumsy, I'm just testing gravity.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 217,
+    "quote": "If at first, you don’t succeed, then skydiving definitely isn’t for you.",
+    "author": "Steven Wright"
+  },
+  {
+    "Id": 218,
+    "quote": "I'm not addicted to chocolate. Chocolate is addicted to me.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 219,
+    "quote": "I don't need a hair stylist, my pillow gives me a new hairstyle every morning.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 220,
+    "quote": "I'm not arguing, I'm just explaining why I'm right... again.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 221,
+    "quote": "I'm not clumsy, it's just that the floor hates me, the tables and chairs are bullies, and the walls get in my way.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 222,
+    "quote": "I’m not arguing, I’m just convincing you of why I’m right.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 223,
+    "quote": "I'm not lazy, I'm just on power-saving mode.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 224,
+    "quote": "If you think nobody cares if you're alive, try missing a couple of car payments.",
+    "author": "Earl Wilson"
+  },
+  {
+    "Id": 225,
+    "quote": "I don't need a hair stylist, my pillow gives me a new hairstyle every morning.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 226,
+    "quote": "I'm not arguing, I'm just explaining why I'm right... again.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 227,
+    "quote": "I’m not clumsy, it’s just the floor hates me, the table and chairs are bullies, and the walls get in my way.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 228,
+    "quote": "I’m not lazy, I’m just on my energy-saving mode.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 229,
+    "quote": "I told my wife she should embrace her mistakes… She gave me a hug.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 230,
+    "quote": "I'm not arguing, I'm just explaining why I'm right.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 231,
+    "quote": "My wallet is like an onion. When I open it, it makes me cry.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 232,
+    "quote": "I'm not shy, I'm just holding back my awesomeness so I don't intimidate you.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 233,
+    "quote": "I'm not lazy, I'm just highly motivated to do nothing.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 234,
+    "quote": "My bed is a magical place where I suddenly remember everything I forgot to do.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 235,
+    "quote": "The only exercise I've done this month is running out of money.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 236,
+    "quote": "I hate when I'm singing a song and the artist gets the lyrics wrong.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 237,
+    "quote": "I’m not addicted to chocolate. Chocolate is addicted to me.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 238,
+    "quote": "I'm not clumsy, I'm just testing gravity.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 239,
+    "quote": "If at first, you don’t succeed, then skydiving definitely isn’t for you.",
+    "author": "Steven Wright"
+  },
+  {
+    "Id": 240,
+    "quote": "I always arrive late at the office, but I make up for it by leaving early.",
+    "author": "Charles Lamb"
+  },
+  {
+    "Id": 241,
+    "quote": "I'm not arguing, I'm just convincing you of why I'm right.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 242,
+    "quote": "I'm so poor, I can't even afford to pay attention.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 243,
+    "quote": "I'm not clumsy, it's just that the floor hates me, the tables and chairs are bullies, and the walls get in my way.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 244,
+    "quote": "I'm not lazy, I'm just on power-saving mode.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 245,
+    "quote": "I finally realized that the people who borrow my books are real friends. The ones who return them are mere acquaintances.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 246,
+    "quote": "I don't need a hairstylist, my pillow gives me a new hairstyle every morning.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 247,
+    "quote": "I'm not arguing, I'm just explaining why I'm right.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 248,
+    "quote": "I'm not shy, I'm just holding back my awesomeness so I don't intimidate you.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 249,
+    "quote": "The only exercise I've done this month is running out of money.",
+    "author": "Unknown"
+  },
+  {
+    "Id": 250,
+    "quote": "I'm not lazy, I'm just highly motivated to do nothing.",
+    "author": "Unknown"
   }
 ]

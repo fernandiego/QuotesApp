@@ -27,10 +27,24 @@ export default {
   },
   methods: {
     getRandomQuote() {
-      // Get a random quote from the JSON file
-      const randomIndex = Math.floor(Math.random() * this.quotes.length);
-      this.currentQuote = this.quotes[randomIndex];
-    },
+  // Create a copy of the quotes array to avoid modifying the original data
+  const availableQuotes = [...this.quotes];
+
+  // Check if all quotes have been used; if so, reset the availableQuotes array
+  if (availableQuotes.length === 0) {
+    availableQuotes.push(...this.quotes);
+  }
+
+  // Get a random index within the availableQuotes array
+  const randomIndex = Math.floor(Math.random() * availableQuotes.length);
+
+  // Extract and remove the selected quote from availableQuotes
+  this.currentQuote = availableQuotes.splice(randomIndex, 1)[0];
+
+  // Update the modified availableQuotes array in the object
+  this.quotes = availableQuotes;
+}
+,
   },
 };
 </script>
