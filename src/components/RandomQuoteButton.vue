@@ -24,10 +24,11 @@ export default {
 }
 
 .primary-button {
-  background-color: #1976d2; /* Example primary color */
+  background-color: red; /* Example primary color */
   color: white;
   padding: 10px 20px;
   border: none;
   cursor: pointer;
+  border-radius: 12px
 }
 </style>
