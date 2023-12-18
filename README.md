@@ -1,8 +1,8 @@
 # Quotes App
 
-Done using vite
-
-App that randomize a quote when clicking the button
+- Done using vite
+- App that randomize a quote when clicking the button
+- Link to the App, published at vercel [Random Quotes](https://quotes-app-eta-sandy.vercel.app/)
 
 ## Recommended IDE Setup
 
